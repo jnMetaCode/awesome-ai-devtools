@@ -138,6 +138,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 - [ORCH](https://github.com/oxgeneral/ORCH) — CLI runtime that coordinates Claude Code, OpenCode, Codex, and Cursor as a typed AI team. State machine (todo→review→done), auto-retry, inter-agent messaging, TUI dashboard.
 - [Octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture. Features plan-first workflow, semantic code search, and persistent memory.
 - [tracelet](https://github.com/jnMetaCode/tracelet) - Watch your agent's execution tree live, then diff two runs step by step
+- [engram](https://github.com/jnMetaCode/engram) - Index markdown, PDF, HTML and EPUB on your machine, then recall passages with file:line citations and time filters. Nothing is uploaded.
 
 ---
 
